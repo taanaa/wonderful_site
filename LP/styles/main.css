@@ -1,1 +1,16 @@
+.title, .title2, .h2, .h3, .h5 {
+ display: flex;
+ justify-content: center;
+ text-align: center
+}
+
+._h2{
+background: linear-gradient(transparent 70%, yellow 0%);
+}
+
+.parent_h2{
+  text-align:center;
+}
+
+
 /* No CSS *//*# sourceMappingURL=main.css.map */
