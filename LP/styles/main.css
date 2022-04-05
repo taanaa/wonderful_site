@@ -4,13 +4,24 @@
  text-align: center
 }
 
-._h2{
+._h2 {
 background: linear-gradient(transparent 70%, yellow 0%);
 }
 
-.parent_h2{
+.parent_h2 {
   text-align:center;
 }
 
+.h3 {
+  background-color: rgb(25, 146, 245);
+  width: 600px;
+  margin: 0 auto;
+  color: white;
+  border-radius: 10px;
+}
+
+.h3:hover{
+  background-color: rgb(77, 163, 233);
+}
 
 /* No CSS *//*# sourceMappingURL=main.css.map */
